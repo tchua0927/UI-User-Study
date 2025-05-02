@@ -1,6 +1,6 @@
 ################################################################################
 # set_clock.py
-#		- versoion 2
+#		- version 1
 # T. Chua - November 20, 2018
 #
 # A software implementation for Graphical User Interface (GUI) for an audio clock using the tk library.
